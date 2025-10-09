@@ -5,4 +5,4 @@ engine = pyttsx3.init()
 # Install 9.0.1 version of pyobjc : "pip install pyobjc>=9.0.1"
 
 engine.say("Hello, Kaise ho app I will speak this text")
-engine.runAndWait()
+engine.runAndWait()    # ignore this 
