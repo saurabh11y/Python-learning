@@ -14,7 +14,7 @@ elif(a==0):
 else:
     print("You are not eligble for vote")
 
-print("end of peogram")
+print("end of program")
 
 
 
